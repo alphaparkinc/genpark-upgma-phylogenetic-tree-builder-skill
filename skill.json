@@ -1,0 +1,13 @@
+{
+  "name": "genpark-upgma-phylogenetic-tree-builder-skill",
+  "version": "1.0.0",
+  "description": "UPGMA hierarchical clustering algorithm constructing rooted ultrametric phylogenetic trees from pairwise evolutionary genetic distance matrices.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "upgma",
+    "phylogenetic-tree",
+    "evolutionary-biology",
+    "hierarchical-clustering"
+  ]
+}
